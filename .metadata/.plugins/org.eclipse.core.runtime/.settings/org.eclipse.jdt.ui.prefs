@@ -1,0 +1,11 @@
+content_assist_disabled_computers=org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.jdt.ui.javaPostfixProposalCategory\u0000org.eclipse.jdt.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.jdt.ui.javaChainProposalCategory\u0000
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="javax.swing.border.Border"><rhs name\="javax.swing.border.CompoundBorder"/></lhs><lhs name\="java.lang.Cloneable"><rhs name\="java.sql.Date"/></lhs><lhs name\="java.util.Date"><rhs name\="java.sql.Date"/></lhs><lhs name\="javax.swing.JPanel"><rhs name\="GUI.NhanVienGUI"/></lhs><lhs name\="javax.accessibility.Accessible"><rhs name\="GUI.NhanVienGUI"/></lhs><lhs name\="javax.swing.JComponent"><rhs name\="GUI.NhanVienGUI"/></lhs><lhs name\="javax.swing.TransferHandler$HasGetTransferHandler"><rhs name\="GUI.NhanVienGUI"/></lhs><lhs name\="java.awt.Container"><rhs name\="GUI.NhanVienGUI"/></lhs><lhs name\="java.awt.Component"><rhs name\="GUI.NhanVienGUI"/></lhs><lhs name\="java.awt.image.ImageObserver"><rhs name\="GUI.NhanVienGUI"/></lhs><lhs name\="java.awt.MenuContainer"><rhs name\="GUI.NhanVienGUI"/></lhs><lhs name\="GUI.NhanVienGUI"><rhs name\="GUI.NhanVienGUI"/></lhs><lhs name\="java.time.temporal.Temporal"><rhs name\="java.time.LocalDate"/></lhs><lhs name\="java.time.temporal.TemporalAccessor"><rhs name\="java.time.LocalDate"/></lhs><lhs name\="java.time.temporal.TemporalAdjuster"><rhs name\="java.time.LocalDate"/></lhs><lhs name\="java.time.chrono.ChronoLocalDate"><rhs name\="java.time.LocalDate"/></lhs><lhs name\="java.awt.Paint"><rhs name\="java.awt.Color"/></lhs><lhs name\="java.awt.Transparency"><rhs name\="java.awt.Color"/></lhs><lhs name\="java.awt.Color"><rhs name\="java.awt.Color"/></lhs></history>
+content_assist_number_of_computers=16
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=23
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
